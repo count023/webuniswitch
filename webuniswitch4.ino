@@ -35,7 +35,7 @@
 #include <IRremoteESP8266.h>
 
 const int MAX_CLIENT_AVAILABLE = 200;
-const int IR_LED_PIN = 0;
+const int IR_LED_PIN = 3;
 const int RC_SWITCH_PIN = 2;
 
 RCSwitch mySwitch = RCSwitch();
