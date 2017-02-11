@@ -2,7 +2,7 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266WiFiMulti.h>
 
-const char* HOSTNAME = "esp01-webuniswitch";
+const char* HOSTNAME = "esp01-r5-webuniswitch";
 boolean wifiInitiated = false;
 const int MAX_WIFI_CONNECTION_TRIALS = 42;
 
